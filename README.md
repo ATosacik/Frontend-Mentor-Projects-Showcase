@@ -85,13 +85,6 @@ Simple recipe website containing custom lists.
 
 ---
 
-### BS_projekt  
-Simple bootstrap 5.3 website  
-**Repository:** https://atosacik.github.io/BS_projekt/  
-**Live site:** https://atosacik.github.io/BS_projekt/
-
----
-
 ### Blog-preview-card-main-frontend-mentor  
 Simple blog box using flexbox  
 **Repository:** https://atosacik.github.io/Blog-preview-card-main-frontend-mentor/  
